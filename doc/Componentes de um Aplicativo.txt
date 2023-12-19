@@ -1,0 +1,20 @@
+Componetes de Um Aplicativos:
+
+
+Modelos de dados: Um modelo de dados contém todos os dados carregados pelo scripts de carregameto, bem como várias tabelas, cada uma conectada por campos exclusivos.
+
+Medidas: As medidas contêm expressões que podemos implementar nas visualizações.
+
+Dimensões: As dimensões definem como agrupar dados em uma visualização.
+
+Visualizações: As visualizações são gráficos e tabelas criados em uma pasta.
+
+Pastas: As pastas contêm visualizações para uma única análise.
+
+Marcadores: Os marcadores nos permitem salvar a seleção atual em uma folha.
+
+Histórias: Podemos criar uma apresentação usando instantâneos de visualizações com seleções específicas combinando várias visualizações em cada slide.
+
+
+
+Analise de Pareto
